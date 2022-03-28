@@ -1,4 +1,4 @@
-module awesomeProject1
+module zura-chan-zura-old
 
 // +heroku goVersion go1.18
 go 1.18
